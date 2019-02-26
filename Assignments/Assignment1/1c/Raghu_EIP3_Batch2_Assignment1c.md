@@ -1,4 +1,11 @@
-# Raghu_Batch5_Assignment1
+# Raghu_EIP3_Batch2_Assignment1C
+
+#### Name: Raghu Rammohan ####
+
+#### Batch: 2 ####
+
+
+
 26/02/2019
 
 ## Topic 1: Convolution
@@ -7,7 +14,17 @@ Refers to combining 2 matrices to provide an output matrix. In neural networks i
 
 Consider a grayscale (size 28 X 28 X 1) image showing a single digit number. Our aim is to identify the number. There are 10 possible results (0-9). Every pixel's intensity in the image is represented by a value.
 
-![https://chrisjmccormick.files.wordpress.com/2015/01/layer_1.png](file:///C:/Users/rragh/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+
+
+![Image](https://github.com/rraghu214/MLBLR/blob/master/IMG/Number5.png?raw=true)
+
+
+
+
+
+
+
+
 
 When a random 3X3 filter slides on this image to extract the features, it results a 26 X 26 output. Convoluting again results in 24 X 24 and so on till it reaches 10 X 10 where a well learnt neural network gives the expected output.
 

@@ -1,0 +1,1 @@
+{"region":{"type":{"type":"dropdown","options":{"Auto":"Auto","NumberPlate":"NumberPlate"},"default_options":{}},"image_quality":{"type":"radio","options":{"Rear View":"Rear View","Front View":"Front View","Side View":"Side View","No Number":"No Number","Blur Image":"Blur Image"},"default_options":{}},"Number":{"type":"text"}},"file":{}}
