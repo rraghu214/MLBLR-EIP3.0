@@ -40,6 +40,9 @@ Filters are matrices that convolve on an image, used for feature extraction. Con
  We consider 2 **"filters"**  to pull out the features from this image. Horizontal dashes "-" and the vertical ones "|".  Convolution results in:
 
  Feature Map 1:
+
+
+
   __                        
   __     
   __
