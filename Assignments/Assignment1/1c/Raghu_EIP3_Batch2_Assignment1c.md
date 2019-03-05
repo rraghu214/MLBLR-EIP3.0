@@ -51,6 +51,9 @@ Filters are matrices that convolve on an image, used for feature extraction. Con
 Feature Map 2:
 
 |  	|
+
+
+
 |  	|
 
 Number of filters is equal to the number of feature maps obtain post convolution.
