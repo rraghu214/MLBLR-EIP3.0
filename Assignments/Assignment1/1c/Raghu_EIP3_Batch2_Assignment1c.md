@@ -32,9 +32,10 @@ When a random 3X3 filter slides on this image to extract the features, it result
 ## Topic 2: Filters / Kernels
 
 Filters are matrices that convolve on an image, used for feature extraction. Consider a single digit number as follows:
- __
- __|
- __|
+
+![Eight](https://github.com/rraghu214/MLBLR-EIP3.0/blob/master/Assignments/Assignment1/1c/Eight.JPG?raw=true)
+
+
 
  We consider 2 **"filters"**  to pull out the features from this image. Horizontal dashes "-" and the vertical ones "|".  Convolution results in:
 
